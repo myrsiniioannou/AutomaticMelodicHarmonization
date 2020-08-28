@@ -1,1 +1,1 @@
-# AMH_BLSTM
+# Automatic Melodic Harmonization fromSymbolic Melody Using BLSTM Networks
