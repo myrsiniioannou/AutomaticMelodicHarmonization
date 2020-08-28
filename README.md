@@ -1,1 +1,1 @@
-# Automatic Melodic Harmonization fromSymbolic Melody Using BLSTM Networks
+# Automatic Melodic Harmonization from Symbolic Melody Using BLSTM Networks
